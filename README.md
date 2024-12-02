@@ -11,6 +11,9 @@
 This project focuses on estimating the **causal impact** of various treatments (e.g., **mobile app usage**, **discounts**) on outcomes like **customer retention** and **revenue**. The goal is to provide **actionable insights** to optimize **marketing strategies**, **pricing**, and **customer engagement efforts**. We use advanced **econometric** and **machine learning techniques** to handle challenges like confounders, **endogeneity**, and **heterogeneous treatment effects**.
 
 ---
+<img width="401" alt="Plot" src="https://github.com/user-attachments/assets/8b915e42-9a14-4a57-aaea-60dbe89ae143">
+<img width="359" alt="Plot 1" src="https://github.com/user-attachments/assets/00c0d794-fcce-442a-bb4d-b0483bc91f35">
+
 
 ## **Business Impact** 💼
 
@@ -34,6 +37,9 @@ This project addresses the following questions:
 3. How can businesses **allocate resources** effectively to maximize the impact of marketing strategies?
 
 ---
+<img width="364" alt="Plot 2" src="https://github.com/user-attachments/assets/8a2d2b18-ea53-42c3-8d86-f924259c065e">
+<img width="365" alt="Plot 3" src="https://github.com/user-attachments/assets/1d4239c3-3e54-420f-8ec8-94564e7d576c">
+
 
 ## **Methodology & Tools** 🛠️
 
