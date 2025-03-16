@@ -1,4 +1,4 @@
-# 🚀 **Causal Impact Estimation Project** 
+# 🚀 **Causal Impact on Customer Retention and Revenue** 
 
 [![Jump to Overview](https://img.shields.io/badge/Jump_to_Overview-Overview-blue)](#project-overview)  
 [![Jump to Business Impact](https://img.shields.io/badge/Jump_to_Business_Impact-business-yellow)](#business-impact)  
